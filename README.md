@@ -2,7 +2,7 @@
   <hr width="45%">
 
 # 🏄‍♂️ Sobre mim:
-🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas <br>🔎 Aprendendo SQL, Javascript, HTML, CSS, GIT, PostgreSQL e muito mais <br>🔒 Utilizando Windows <br>🥋 Bjj - Oficial <br>👨‍💻 Auxiliar administrativo
+🧠 Segundo ano do Ensino Médio Técnico em Desenvolvimento de Sistemas <br>🔎 Aprendendo SQL, Javascript, HTML, CSS, GIT, PostgreSQL e muito mais <br>🔒 Utilizando Windows <br>👨‍💻 Programação
 
 
 ## 🌐 Redes sociais:
