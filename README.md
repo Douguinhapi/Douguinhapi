@@ -43,8 +43,8 @@
   - 🌍 Aprendendo sobre desenvolvimento sustentável e tecnologias verdes.
   - 📱 Explorando o desenvolvimento mobile com React Native.
   - 🎨 Design de interfaces e experiência do usuário (UX/UI).
-  - 📊 Análise de dados com JS e bibliotecas como Pandas e Matplotlib.
-  - 🤖 Aprendendo sobre Inteligência Artificial e Machine Learning.
+  - 📊 Análise de dados com JS e bibliotecas.
+  - 🤖 Aprendendo sobre e Machine Learning.
 
   ## 🎉 Curiosidades:
   - 🐧 ![Pinguim do Linux](https://media.tenor.com/images/d97ab92ae216cbb196c4a88883110c52/tenor.gif) 
