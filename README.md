@@ -1,7 +1,7 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=header"/>
 
-  <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Hello,%20my name%20is!%20Douglas Pierri Beccari 😉;Bem%20Vindo!%20😉&font=Noto%20Sans&justify=true&width=550&height=45&color=F5F4FF&vCenter=true&pause=1000&size=30"> 
+  <img alt="Animação de texto" src="https://readme-typing-svg.demolab.com/?lines=Hello,%20my name%20is!%20Douglas Pierri 😉😉😉;Bem%20Vindo!%20😉&font=Noto%20Sans&justify=true&width=550&height=45&color=F5F4FF&vCenter=true&pause=1000&size=30"> 
   <hr width="45%">
   
   # 💻 Sobre mim:
