@@ -41,9 +41,9 @@
 
   ## 🚀 Interesses Adicionais:
   - 🌍 Aprendendo sobre desenvolvimento sustentável e tecnologias verdes.
-  - 📱 Explorando o desenvolvimento mobile com Flutter.
+  - 📱 Explorando o desenvolvimento mobile com React Native.
   - 🎨 Design de interfaces e experiência do usuário (UX/UI).
-  - 📊 Análise de dados com Python e bibliotecas como Pandas e Matplotlib.
+  - 📊 Análise de dados com js e bibliotecas
 
   <div align="center">
     <br><p align="center"><b>Visitors Count</b></p>  
