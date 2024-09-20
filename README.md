@@ -11,17 +11,17 @@
   👨‍💻 Programação <br>
 
   ## 💻 Linguagens Utilizadas:
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
-  ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
-  <img src="https://img.shields.io/badge/Git-F3501D?style=for-the-badge&logo=git&logoColor=white">
-  ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+  <div>
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+    ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+    ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+    ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+    ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+    <img src="https://img.shields.io/badge/Git-F3501D?style=for-the-badge&logo=git&logoColor=white">
+    ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+  </div>
 
   ## 📊 GitHub Status:
   <div align="center">  
@@ -35,21 +35,17 @@
   ---
 
   ### Estudando no momento:
-  ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+  <div>
+    ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+    ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+    ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
+  </div>
 
   ## 🚀 Interesses Adicionais:
-  - 🌍 Aprendendo sobre desenvolvimento sustentável e tecnologias verdes.
-  - 📱 Explorando o desenvolvimento mobile com React Native.
+  - 🌍 Desenvolvimento sustentável e tecnologias verdes.
+  - 📱 Desenvolvimento mobile com React Native.
   - 🎨 Design de interfaces e experiência do usuário (UX/UI).
-  - 📊 Análise de dados com JS e bibliotecas como Pandas e Matplotlib.
-  - 🤖 Aprendendo sobre Inteligência Artificial e Machine Learning.
-
-  ## 🎉 Curiosidades:
-  - 🐧 ![Pinguim do Linux](https://media.tenor.com/images/d97ab92ae216cbb196c4a88883110c52/tenor.gif) 
-  - 🖱️ ![Cursor piscando](https://media.tenor.com/images/39f7d34f32e0ee660b2cf18367e8eb2e/tenor.gif) 
-  - 🐘 ![Elefante do Python](https://media.tenor.com/images/5401f7d1ef647545e92740c327da4b0c/tenor.gif)
+  - 📊 Análise de dados e visualização com JavaScript.
 
   <div align="center">
     <br><p align="center"><b>Contador de Visitantes</b></p>  
@@ -58,7 +54,9 @@
   </div>
 
   <div align="center">
-    <h1> <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="80px"></h1>
+    <img src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="80px">
+    <img src="https://media.tenor.com/images/39f7d34f32e0ee660b2cf18367e8eb2e/tenor.gif" width="80px">
+    <img src="https://media.tenor.com/images/5401f7d1ef647545e92740c327da4b0c/tenor.gif" width="80px">
   </div>
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=120&section=footer"/>
