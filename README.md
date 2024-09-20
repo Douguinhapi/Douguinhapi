@@ -34,7 +34,7 @@
 
   ---
 
-  ### Studying in this moment:
+  ### Estudando no momento:
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
@@ -43,10 +43,16 @@
   - 🌍 Aprendendo sobre desenvolvimento sustentável e tecnologias verdes.
   - 📱 Explorando o desenvolvimento mobile com React Native.
   - 🎨 Design de interfaces e experiência do usuário (UX/UI).
-  - 📊 Análise de dados com js e bibliotecas
+  - 📊 Análise de dados com JS e bibliotecas como Pandas e Matplotlib.
+  - 🤖 Aprendendo sobre Inteligência Artificial e Machine Learning.
+
+  ## 🎉 Curiosidades:
+  - 🐧 ![Pinguim do Linux](https://media.tenor.com/images/d97ab92ae216cbb196c4a88883110c52/tenor.gif) 
+  - 🖱️ ![Cursor piscando](https://media.tenor.com/images/39f7d34f32e0ee660b2cf18367e8eb2e/tenor.gif) 
+  - 🐘 ![Elefante do Python](https://media.tenor.com/images/5401f7d1ef647545e92740c327da4b0c/tenor.gif)
 
   <div align="center">
-    <br><p align="center"><b>Visitors Count</b></p>  
+    <br><p align="center"><b>Contador de Visitantes</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Douguinhapi}/count.svg" /></p> 
     <br>
   </div>
