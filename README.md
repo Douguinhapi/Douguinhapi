@@ -8,8 +8,7 @@
   🧠 Terceiro ano do Ensino Médio Técnico em Desenvolvimento de Sistemas <br>
   🔎 Aprendendo SQL, Javascript, HTML, CSS, GIT, PostgreSQL e muito mais <br>
   🔒 Utilizando Windows <br>
-  👨‍💻 Programação e desenvolvimento em equipe <br>
-  🤝 Experiência em colaborações e interações com outros desenvolvedores <br>
+  👨‍💻 Programação <br>
 
   ## 💻 Linguagens Utilizadas:
   <div>
@@ -46,8 +45,7 @@
   - 🌍 Desenvolvimento sustentável e tecnologias verdes.
   - 📱 Desenvolvimento mobile com React Native.
   - 🎨 Design de interfaces e experiência do usuário (UX/UI).
-  - 📊 Análise de dados e visualização com JavaScript.
-  - 🛠️ Trabalhando com PostgreSQL para criação de bancos de dados eficientes.
+  - 📊 Análise de dados com JS e bibliotecas como Pandas e Matplotlib.
 
   <div align="center">
     <br><p align="center"><b>Contador de Visitantes</b></p>  
