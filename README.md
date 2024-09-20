@@ -11,23 +11,16 @@
 <img src="https://img.shields.io/badge/Git-F3501D?style=for-the-badge&logo=git&logoColor=white">
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-30A1EB?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-
-
 ## 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=Douguinhapi&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Douguinhapi&theme=radical&hide_border=false)<br/>
-
-
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Douguinhapi&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Douguinhapi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douguinhapi&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
+</div>
 
 ## 🔝 Repositórios:
 ![](https://github-contributor-stats.vercel.app/api?username=Douguinhapi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Douguinhapi&show_icons=true&count_private=true&hide_border=true&title_color=26A653&icon_color=26A653&text_color=c9d1d9&bg_color=0d1117" alt="Douguinhapi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douguinhapi&layout=compact&hide_border=true&title_color=26A653&text_color=26A653&bg_color=0d1117" />
-</div>
   
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
